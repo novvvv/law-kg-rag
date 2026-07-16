@@ -1,0 +1,10 @@
+# 법령 KG/RAG 미니 시스템 (노트북 CPU용)
+# 설치: pip install -r requirements.txt
+sentence-transformers>=2.7
+numpy
+requests
+fastapi
+uvicorn[standard]
+python-multipart
+# (선택) PDF 파싱 관찰용
+pdfplumber

@@ -1,0 +1,6 @@
+[
+  {"question": "술을 마신 상태로 운전하면 어떻게 되나요?", "expect_keyword": "술에 취한"},
+  {"question": "면허 없이 운전하면 처벌되나요?", "expect_keyword": "운전면허"},
+  {"question": "길에서 소변을 보면 처벌되나요?", "expect_keyword": "대소변"},
+  {"question": "취해서 길에서 소란을 피우면?", "expect_keyword": "음주소란"}
+]
