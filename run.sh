@@ -49,4 +49,4 @@ fi
 
 echo "서버 시작 → http://127.0.0.1:8000"
 echo "(종료: Ctrl+C)"
-exec "$PY" -m src.web_app
+exec "$PY" -m src.app.api
